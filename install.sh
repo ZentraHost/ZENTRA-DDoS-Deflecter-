@@ -19,9 +19,7 @@ echo "╚══════╝╚══════╝╚═╝  ╚═══╝
 echo -e "${DARK_RED}"
 echo "D   D   O   S    -    D   E   F   L   E   C   T   E   R"
 echo -e "${NC}"
- 
-echo -e "${YELLOW}Enterprise Hosting Support:${NC} https://discord.gg/V4uWMy8bfP"
-echo -e "${YELLOW}Technical Community:${NC} https://discord.gg/TmFZNMWuDF"
+
 
 echo -e "\n${RED}⚠️ SECURITY NOTICE: This script will make significant system changes! ⚠️${NC}\n"
 sleep 1
